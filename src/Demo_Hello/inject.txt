@@ -1,0 +1,7 @@
+REM Hello world
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad
+ENTER
+STRING Hello from Rubber Ducky
