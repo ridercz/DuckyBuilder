@@ -27,3 +27,9 @@ This is a text file which contains names of supported keyboard layouts. Each pay
 This folder is created when `build.cmd` is run. It contains folders for each combination of payload and keyboard layout. The contents is to be copied to the MicroSD card used in the Rubber Ducky.
 
 Build process creates the `hideall.cmd` file. If you run this file, it will set all the files in its folder as *system* and *hidden* and then it will delete itself.
+
+## Contributor Code of Conduct
+
+This project adheres to No Code of Conduct. We are all adults. We accept anyone's contributions. Nothing else matters.
+
+For more information please visit the [No Code of Conduct](https://github.com/domgetter/NCoC) homepage.
